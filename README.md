@@ -4,10 +4,10 @@
 -	Fixed IGMP subscription issue
 
 [V1.230522 – COLORado PXL Bar 16](https://github.com/Chauvet-Pro/COLORADOPXLBAR16/blob/b841a2638263e37844e641929df6e749c1435c1e/Firmware/V1.230522.zip)
--	Software update
+-	Fixed pixel color calibration resetting with Factory Reset
 
 [V1.230321 – COLORado PXL Bar 16](https://github.com/Chauvet-Pro/COLORADOPXLBAR16/blob/b841a2638263e37844e641929df6e749c1435c1e/Firmware/V1.230321.zip)
--	Software update
+-	Fixed dimming issues and spelling errors
 
 [V1.220627 – COLORado PXL Bar 16](https://github.com/Chauvet-Pro/COLORADOPXLBAR16/blob/b841a2638263e37844e641929df6e749c1435c1e/Firmware/V1.220627.zip)
 -	Fixed issue with Red Shift and Web server display message
