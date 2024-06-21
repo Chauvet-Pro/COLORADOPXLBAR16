@@ -1,4 +1,6 @@
-# COLORADOPXLBAR16
+# COLORado PXL Bar 16
+
+## Software Versions
 
 [V1.240219 – COLORado PXL Bar 16](https://github.com/Chauvet-Pro/COLORADOPXLBAR16/blob/b841a2638263e37844e641929df6e749c1435c1e/Firmware/V1.240219.zip)
 -	Fixed IGMP subscription issue
