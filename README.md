@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V1.240830 - COLORado PXL Bar 16](https://github.com/Chauvet-Pro/COLORADOPXLBAR16/blob/0702f776a22141ea477cb06eded7a1f87d302c03/Firmware/V1.240830.zip)
+- Fixed the issue with the Single Zoom
+
 [V1.240719 - COLORado PXL Bar 16](https://github.com/Chauvet-Pro/COLORADOPXLBAR16/blob/c2d6aa5b92802effd7d762d71f7e72c9f2f99473/Firmware/V1.240719.zip)
 - Fixed the thermistor error issue
 
