@@ -49,5 +49,4 @@
 ### Special Notes
 * Place the .chl file in the root directory of the USB drive.
 * The product's USB port supports up to 32GB capacity and only works with FAT32 file format.
-* It is possible to update multiple units with the USB if they are daisy chained via DMX.
 * Turning off the power or removing the USB while still blinking during the update will cause partial or total firmware failure in the targeted fixture(s). If this occurs, the user will need the UPLOAD 08 device to fix this.
