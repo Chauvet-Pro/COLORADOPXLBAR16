@@ -37,9 +37,9 @@
 
 ## USB Software Update Instructions
 1. Power on the product and plug the flash drive into the USB port.
-2.	Once the flash drive has been detected, the message "**USB UPDATE**" will be displayed. Select **<YES>**.  
-3.	The next screen will show the software versions available for this fixture on the USB drive.  For multiple versions of the software for the same fixture, use **<UP>** or **<DOWN>** to select the desired version.  Press **<ENTER>**.
-4.	The “**USB UPDATE**” screen will re-appear.  Press **<YES>**.
+2.	Once the flash drive has been detected, the message "**USB UPDATE**" will be displayed. Select **< YES >**.  
+3.	The next screen will show the software versions available for this fixture on the USB drive.  For multiple versions of the software for the same fixture, use **<UP>** or **<DOWN>** to select the desired version.  Press **< ENTER >**.
+4.	The “**USB UPDATE**” screen will re-appear.  Press **< YES >**.
 5.	The upgrade will start. **DO NOT** turn off the power or disconnect the USB while the USB LED is still blinking during the process. The screen display will read: “**USB Update Wait**”. USB update can take several minutes to complete.
    >When the USB firmware is done uploading, in some fixtures the display will change to: “**DO NOT UNPLUG, UPDATING**”.
 6.	When the update is completed, the fixture will automatically reboot.
