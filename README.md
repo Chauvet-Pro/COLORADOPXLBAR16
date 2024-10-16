@@ -2,9 +2,6 @@
 
 ## Software Versions
 
-[V1.241009- COLORado PXL Bar 16](https://github.com/Chauvet-Pro/COLORADOPXLBAR16/blob/6d2c11078faeac670c3fb0fe28c1b19c4c4b9861/Firmware/V1.241009.zip)
-- Fixed control channel range values
-
 [V1.240830 - COLORado PXL Bar 16](https://github.com/Chauvet-Pro/COLORADOPXLBAR16/blob/0702f776a22141ea477cb06eded7a1f87d302c03/Firmware/V1.240830.zip)
 - Added new PWM firmware update
 - Fixed the issue with the Single Zoom
