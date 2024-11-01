@@ -2,7 +2,7 @@
 
 ## Software Versions
 
-[V1.241024 - COLORado PXL Bar 16](https://github.com/Chauvet-Pro/COLORADOPXLBAR16/blob/ef3a4a821428faadd1a1691013168065723df029/Firmware/V1.241024.zip)
+[V1.241014 - COLORado PXL Bar 16](https://github.com/Chauvet-Pro/COLORADOPXLBAR16/blob/09e91ac159d586b7652aaa136dfa899f062cbefc/Firmware/V1.241014.zip)
 - Fixed timing issues with flash button reaction on network applications
 
 [V1.240830 - COLORado PXL Bar 16](https://github.com/Chauvet-Pro/COLORADOPXLBAR16/blob/0702f776a22141ea477cb06eded7a1f87d302c03/Firmware/V1.240830.zip)
