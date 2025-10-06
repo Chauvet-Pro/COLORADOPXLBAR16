@@ -1,7 +1,9 @@
 # COLORado PXL Bar 16
 
 ## Software Versions
-
+[V1.250911 - COLORado PXL Bar 16](https://github.com/Chauvet-Pro/COLORADOPXLBAR16/blob/2bc371512b3107e148236a628c861c1760d01f02/Firmware/V1.250911.zip)
+- Changed the universe range of ArtNet to 0 - - 32767
+- Changed the way the universe is entered and confirmed
 
 [V1.241023 - COLORado PXL Bar 16](https://github.com/Chauvet-Pro/COLORADOPXLBAR16/blob/f34800b42d9fc845d040e0b6aef8e2bd9d51ed9f/Firmware/V1.241023.zip)
 - Fixed control-channel values
