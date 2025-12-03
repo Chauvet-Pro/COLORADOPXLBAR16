@@ -2,6 +2,11 @@
 
 ## Software Versions
 
+[V1.251014 - COLORado PXL Bar 16](https://github.com/Chauvet-Pro/COLORADOPXLBAR16/blob/c3443a46775e80428bcae7dcd51a7da02f76cc6e/Firmware/V1.251014.zip)
+- Add strobe refresh for each value change
+- Fix the issue that in MA3 ArtNet mode with RDM on, the fixture will move randomly
+- Webserver can now be accessed in any control mode
+
 [V1.241023 - COLORado PXL Bar 16](https://github.com/Chauvet-Pro/COLORADOPXLBAR16/blob/f34800b42d9fc845d040e0b6aef8e2bd9d51ed9f/Firmware/V1.241023.zip)
 - Fixed control-channel values
 
