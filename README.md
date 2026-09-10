@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V1.260709](https://github.com/Chauvet-Pro/COLORADOPXLBAR16/blob/ece03f6a00893edef17434d432a7719f2481f828/Firmware/V1.260709.zip)
+- Improved voltage fluctuations to increase fixture stability and reliability. Please update all units as soon as possible
+  
 [V1.251014 - COLORado PXL Bar 16](https://github.com/Chauvet-Pro/COLORADOPXLBAR16/blob/c3443a46775e80428bcae7dcd51a7da02f76cc6e/Firmware/V1.251014.zip)
 - Add strobe refresh for each value change
 - Fix the issue that in MA3 ArtNet mode with RDM on, the fixture will move randomly
